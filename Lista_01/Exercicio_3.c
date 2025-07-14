@@ -1,3 +1,5 @@
+int main(){
+char opcao;
 printf("Estado civil (C,S,V ou D):");
 scanf("%c", &opcao);
 
