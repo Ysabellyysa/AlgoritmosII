@@ -1,4 +1,8 @@
-
+typedef struct {
+    int matricula;
+    char nome[50];
+Aluno;
+}
 int main() {
     int n, i;
     Aluno *turma;
